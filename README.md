@@ -8,17 +8,18 @@ Dreaming of becoming a Software Engineer and planning to stack up those degrees 
 
 ## Experience 💼
 
-I've been the one-man army behind some cool projects, like building an internal platform for a small business to manage consultant objectives efficiently.
-From brainstorming to deployment, to LLM integration, I've done it all!
+I've been the **one-man** army behind some cool projects, like **building an internal platform for a small business to manage consultant objectives efficiently**.
+From brainstorming to deployment, to 🧠 **LLM integration** 🧠, I've done it all!
+Many thanks to the YouTube community and, *above everything*, **David J. Malan**, the famous professor teaching the world's greatest Computer Science course, namely **CS50 from Harvard's University**! 🎓
 
 ## Skills and Specializations 💻
 
-- Backend: ✅ Python (Django)
-- Frontend: ⏳ ReactJS (Next.JS), ⏳ Svelte (SvelteKit)
-- Database: ✅ PostgreSQL
-- Tools: ✅ Figma, ✅ Docker Compose, 🔜 AWS EC2, cron job (used one time...)
-- Testing: ✅ unittest module
-- Future Aspirations: Eyeing Machine Learning through DeepLearning.ai 🤖
+- Backend: ✅ **Python** (Django), a little bit of C (Thanks Harvard)
+- Frontend: ⏳ **ReactJS** (Next.JS), ⏳ Svelte (SvelteKit)
+- Database: ✅ **PostgreSQL**
+- Tools: ✅ Figma, ✅ **Docker Compose**, 🔜 AWS EC2, cron job (used one time...)
+- Testing: ✅ Hundreds of unit tests using the unittest Python module, Integration tests with Selenium
+- Future Aspirations: Eyeing Machine Learning through *DeepLearning.ai* 🤖
 
 ## Projects 🛠️
 
@@ -36,7 +37,7 @@ I'm on a mission to master web and mobile app development and sprinkle some Mach
 
 ## Philosophy 📚
 
-I truly believe curiosity and discipline are the secret sauce for success. Teach your kids those, and the world's their oyster!
+I truly believe **curiosity** and **discipline** are the secret sauce for success. Teach your kids those, and the world's their oyster!
 
 ## Let's Connect! 🤝
 
